@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django Framework**
 
-- 👨‍💻 All of my projects are available at [https://anoykhan.github.io/Portfolio_2nd/](https://anoykhan.github.io/Anoy_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://anoykhan.github.io/Portfolio_2nd/](https://anoykhan.github.io/Portfolio_2nd/)
 
 - 📫 How to reach me **anoykhan14@gmail.com**
 
