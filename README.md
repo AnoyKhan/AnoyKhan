@@ -1,4 +1,12 @@
 <h1 align="center"> 👨‍💻 AnoyKhan | Beginner Coder</h1>
+<div align="center">
+
+## 👋 About Me
+    I'm Anoy Khan, a passionate CS student from Bangladesh 🇧🇩.  
+    I love solving problems, building real-world web projects, and exploring new technologies.  
+    Currently focused on improving my skills in Full Stack Web Development.
+
+</div>
 
 ---
 <h3 align="center">🚀  Embarking on a coding journey, one line of code at a time</h3>
@@ -136,6 +144,10 @@
 **Course Name**: Python Developer - [Certificate](https://www.sololearn.com/certificates/CC-LONIMEMH)<br>
 **Course Name**: C Programming Language - [Certificate](https://www.sololearn.com/certificates/CC-RAPGWSIW)<br>
 **Course Name**: C++ Intermediate - [Certificate](https://www.sololearn.com/certificates/CC-FVMMQCNI)<br>
+
+## 🚀 Featured Projects
+
+- 🎯 [Metro Bus Reservation System (C Language)](https://github.com/AnoyKhan/Bus-Reservation-C)
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
