@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoykhan" alt="anoykhan" /></a> </p>
 
-
-<img align="right" alt="coding" width="300" src="./image/github.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoykhan&label=Profile%20views&color=0e75b6&style=flat" alt="anoykhan" /> </p>
 
 ## 🎯 Current Focus
+<img align="right" alt="coding" width="300" src="./image/github.png">
+
 - 🔭 Working on:  **Improving my skills and building small projects to enhance my portfolio.**
 - 🌱 Learning: **Data Structures and Algorithms, Web Development Fundamentals**
 - 👯 Looking to collaborate on: **Beginner-friendly open source projects**
