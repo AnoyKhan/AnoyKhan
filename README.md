@@ -147,7 +147,7 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 [Metro Bus Reservation System (C Language)](https://github.com/AnoyKhan/Bus-Reservation-C)
+- 🎯 [Bus Ticket Reservation System (C Language)](https://github.com/AnoyKhan/Bus-Ticket-Reservation-System)
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
