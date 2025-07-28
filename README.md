@@ -139,15 +139,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnoyKhan&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 🚀 Featured Projects
+
+- 🎯 [Bus Ticket Reservation System (C Language)](https://github.com/AnoyKhan/Bus-Ticket-Reservation-System)
+
 ## 🎓 Certifications & Achievements
 **Course Name**: Web Development with Python Django - [Certificate](https://certificate.citsmp.com/?certificate_id=IAPD-23080123)<br>
 **Course Name**: Python Developer - [Certificate](https://www.sololearn.com/certificates/CC-LONIMEMH)<br>
 **Course Name**: C Programming Language - [Certificate](https://www.sololearn.com/certificates/CC-RAPGWSIW)<br>
 **Course Name**: C++ Intermediate - [Certificate](https://www.sololearn.com/certificates/CC-FVMMQCNI)<br>
-
-## 🚀 Featured Projects
-
-- 🎯 [Bus Ticket Reservation System (C Language)](https://github.com/AnoyKhan/Bus-Ticket-Reservation-System)
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
